@@ -1,0 +1,44 @@
+"罪案 Crime",西區,東區,2020總計,西區,東區,2021總計
+,Western,Eastern,TOTAL,Western,Eastern,TOTAL
+"侵犯人身的暴力罪案 VIOLENT CRIME AGAINST PERSON",,,,,,
+"1  強姦 Rape",2,2,10,2,6,13
+"2  非禮 Indecent Assault",21,46,121,36,45,173
+"3  謀殺及誤殺 Murder & Manslaughter",2,-,2,1,1,3
+"4  意圖謀殺 Attempted Murder",-,-,1,-,-,1
+"5  傷人 Wounding",33,53,214,31,42,179
+"6  嚴重毆打 Serious Assault",109,158,476,78,128,401
+"7  襲警 Assault on Police",9,10,44,12,7,51
+"8  綁架及拐帶兒童 Kidnapping & Child Stealing",-,-,-,1,-,1
+"9  虐待兒童 Cruelty to Child",17,16,38,23,20,51
+"10  刑事恐嚇 Criminal Intimidation",36,42,150,29,39,163
+"侵犯財物的暴力罪案 VIOLENT CRIME AGAINST PROPERTY",,,,,,
+"11  使用槍械行劫 Robbery with Firearms/Arms",-,-,-,-,-,-
+"12  使用類似手槍物體行劫 Robbery with Pistol Like Object",-,-,2,-,-,-
+"13  其他行劫 Other Robberies",3,3,12,4,4,14
+"14  嚴重爆竊 Aggravated Burglary",1,-,1,-,-,-
+"15  勒索 Blackmail",75,73,197,32,43,159
+"16  縱火 Arson",4,14,41,5,11,25
+"暴力罪案總計 TOTAL VIOLENT CRIME  ( 1 - 16 )",312,417,1 309,254,346,1 234
+"爆竊及盜竊 BURGLARY & THEFT",,,,,,
+"17  爆竊 (有毀壞者) Burglary with Breaking",57,51,190,36,65,153
+"18  爆竊 (無毀壞者) Burglary without Breaking",12,26,61,10,18,51
+"19  盜竊 (搶掠) Theft (Snatching)",-,4,10,-,1,1
+"20  盜竊 (扒竊) Theft (Pickpocketing)",3,13,56,4,9,39
+"21  盜竊 (店舖盜竊) Theft (Shop Theft)",216,556,1 498,191,533,1 359
+"22  車輛內盜竊 Theft from Vehicle",28,47,114,21,17,72
+"23  擅自取去交通工具 Taking Conveyance without Authority",12,25,52,4,10,27
+"(失車 Missing Motor Vehicles)",(11),(24),(50),(4),(10),(27)
+"24  偷電 Abstracting of Electricity",1,-,2,-,2,2
+"25  地盤盜竊 Theft from Construction Site",3,7,13,4,1,6
+"26  其他雜項盜竊 Other Miscellaneous Thefts",272,368,1 633,218,377,1 452
+"27  接贓 Handling Stolen Goods",2,1,11,1,2,6
+"詐騙及偽造文件 FRAUD & FORGERY",,,,,,
+"28  詐騙 Deception",735,1 000,2 941,762,899,3 009
+"29  商業騙案 Business Fraud",-,-,2,-,-,-
+"30  偽造文件及假錢 Forgery and Coinage",24,42,197,19,44,212
+"色情罪行 SEXUAL OFFENCES",,,,,,
+"31  非法性行為 Unlawful Sexual Intercourse",7,6,17,2,4,6
+"32  經營色情場所 Keeping Vice Establishments",4,1,16,2,3,47
+"33  促使/操控賣淫 Procuring/Controlling of Prostitution",-,-,-,-,1,73
+"34  粗獷性行為罪行 Unnatural Offences",2,-,2,-,-,-
+"35  其他違背社會道德的罪行 Other Offences Against Public Morality",8,16,86,16,27,99

@@ -1,0 +1,68 @@
+Crime,Western,Eastern,Hong Kong Island,Total
+1 強姦 Rape,2,6,13,79
+2 非禮 Indecent Assault,36,45,173,1018
+3 謀殺及誤殺 Murder & Manslaughter,1,1,3,23
+4 意圖謀殺 Attempted Murder,0,0,1,4
+5 傷人 Wounding,31,42,179,732
+6 嚴重毆打 Serious Assault,78,128,401,3392
+7 襲警 Assault on Police,12,7,51,177
+8 綁架及拐帶兒童 Kidnapping & Child Stealing,1,0,1,2
+9 虐待兒童 Cruelty to Child,23,20,51,525
+10 刑事恐嚇 Criminal Intimidation,29,39,163,1604
+11 使用槍械行劫 Robbery with Firearms/Arms,0,0,0,0
+12 使用類似手槍物體行劫 Robbery with Pistol Like Object,0,0,0,0
+13 其他行劫 Other Robberies,4,4,14,123
+14 嚴重爆竊 Aggravated Burglary,0,0,0,1
+15 勒索 Blackmail,32,43,159,1592
+16 縱火 Arson,5,11,25,315
+17 爆竊 (有毀壞者) Burglary with Breaking,36,65,153,1012
+18 爆竊 (無毀壞者) Burglary without Breaking,10,18,51,459
+19 盜竊 (搶掠) Theft (Snatching),0,1,1,79
+20 盜竊 (扒竊) Theft (Pickpocketing),4,9,39,313
+21 盜竊 (店舖盜竊) Theft (Shop Theft),191,533,1359,7187
+22 車輛內盜竊 Theft from Vehicle,21,17,72,904
+23 擅自取去交通工具 Taking Conveyance without Authority,4,10,27,553
+(失車 Missing Motor Vehicles),-4,-10,-27,-535
+24 偷電 Abstracting of Electricity,0,2,2,33
+25 地盤盜竊 Theft from Construction Site,4,1,6,264
+26 其他雜項盜竊 Other Miscellaneous Thefts,218,377,1452,9732
+27 接贓 Handling Stolen Goods,1,2,6,62
+28 詐騙 Deception,762,899,3009,19249
+29 商業騙案 Business Fraud,0,0,0,0
+30 偽造文件及假錢 Forgery and Coinage,19,44,212,943
+31 非法性行為 Unlawful Sexual Intercourse,2,4,6,160
+32 經營色情場所 Keeping Vice Establishments,2,3,47,109
+33 促使/操控賣淫 Procuring/Controlling of Prostitution,0,1,73,139
+34 粗獷性行為罪行 Unnatural Offences,0,0,0,6
+35 其他違背社會道德的罪行 Other Offences Against Public Morality,16,27,99,624
+36 製煉毒品 Manufacturing of Dangerous Drugs,0,0,1,31
+37 販運毒品 Trafficking in Dangerous Drugs,21,30,85,861
+38 藏有毒品 Possession of Dangerous Drugs,25,29,116,676
+39 其他嚴重毒品罪行 Other Serious Drug Offences,0,0,0,2
+40 誤導/提供虛假消息予警方 Misleading/Giving False Information to Police,2,8,22,168
+41 發假誓 Perjury,0,1,1,6
+42 拒捕 Resisting Arrest,8,8,30,187
+43 逃走及非法劫回 Escape and Rescue,0,0,2,5
+44 其他違背合法權力的罪行 Other Offences Against Lawful Authority,1,7,14,66
+45 協助及教唆非法入境者 Aiding and Abetting of Illegal Immigrants,1,2,4,55
+46 使用屬於他人的身份證 Using Identity Card Relating to Another,2,9,18,162
+47 其他嚴重入境罪行 Other Serious Immigration Offences,11,32,60,260
+48 刑事毀壞 Criminal Damage,106,150,488,709
+49 其他侵犯人身的罪行 Other Offences Against Person,1,2,7,78
+50 在公眾地方行為不檢/打鬥 Disorder/Fighting in Public Place,33,37,133,891
+51 妨礙公安罪行 Offences Against Public Order,2,0,20,65
+52 非法會社罪行 Unlawful Society Offences,9,3,16,167
+53 借貸 Money Lending,0,4,8,77
+54 嚴重賭博罪行 Serious Gambling Offences,23,27,67,560
+55 串謀 Conspiracy,56,11,125,302
+56 高空墮物 Object Dropped from Buildings,8,43,91,540
+57 其他罪案 Other Crime,23,89,391,1145
+58 藏有槍械及彈藥 Possession of Arms and Ammunition,3,3,7,83
+59 藏有攻擊性武器 Possession of Offensive Weapon,16,20,61,501
+60 身懷盜竊工具 Going Equipped for Stealing,0,4,11,76
+61 藏有非法工具 Possession of Unlawful Instrument,1,3,5,45
+62 干擾車輛 Tampering with Vehicle,0,0,1,13
+63 非法典當罪行 Unlawful Pawning Offences,0,0,0,1
+64 遊蕩 Loitering,8,10,34,247
+65 危害國家安全/損害國家尊嚴罪行 Offences Against National Security and Dignity,1,2,17,34
+合計 GRAND TOTAL,1905,2893,9683,64428

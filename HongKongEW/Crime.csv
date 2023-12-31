@@ -1,0 +1,43 @@
+罪案 Crime,2020,2021
+侵犯人身的暴力罪案 VIOLENT CRIME AGAINST PERSON,,
+1  強姦 Rape,64,79
+2  非禮 Indecent Assault,682,1 018
+3  謀殺及誤殺 Murder & Manslaughter,22,23
+4  意圖謀殺 Attempted Murder,2,4
+5  傷人 Wounding,1 049,732
+6  嚴重毆打 Serious Assault,3 514,3 392
+7  襲警 Assault on Police,217,177
+8  綁架及拐帶兒童 Kidnapping & Child Stealing,1,2
+9  虐待兒童 Cruelty to Child,300,525
+10  刑事恐嚇 Criminal Intimidation,1 401,1 604
+侵犯財物的暴力罪案 VIOLENT CRIME AGAINST PROPERTY,,
+11  使用槍械行劫 Robbery with Firearms/Arms,1,-
+12  使用類似手槍物體行劫 Robbery with Pistol Like Object,5,-
+13  其他行劫 Other Robberies,258,123
+14  嚴重爆竊 Aggravated Burglary,3,1
+15  勒索 Blackmail,1 399,1 592
+16  縱火 Arson,473,315
+暴力罪案總計 TOTAL VIOLENT CRIME  ( 1 - 16 ),9 391,9 587
+爆竊及盜竊 BURGLARY & THEFT,,
+17  爆竊 (有毀壞者) Burglary with Breaking,1 503,1 012
+18  爆竊 (無毀壞者) Burglary without Breaking,589,459
+19  盜竊 (搶掠) Theft (Snatching),163,79
+20  盜竊 (扒竊) Theft (Pickpocketing),432,313
+21  盜竊 (店舖盜竊) Theft (Shop Theft),7 756,7 187
+22  車輛內盜竊 Theft from Vehicle,1 366,904
+23  擅自取去交通工具 Taking Conveyance without Authority,886,553
+(失車 Missing Motor Vehicles),(895),(535)
+24  偷電 Abstracting of Electricity,27,33
+25  地盤盜竊 Theft from Construction Site,208,264
+26  其他雜項盜竊 Other Miscellaneous Thefts,9 476,9 732
+27  接贓 Handling Stolen Goods,67,62
+詐騙及偽造文件 FRAUD & FORGERY,,
+28  詐騙 Deception,15 553,19 249
+29  商業騙案 Business Fraud,4,-
+30  偽造文件及假錢 Forgery and Coinage,949,943
+色情罪行 SEXUAL OFFENCES,,
+31  非法性行為 Unlawful Sexual Intercourse,132,160
+32  經營色情場所 Keeping Vice Establishments,55,109
+33  促使/操控賣淫 Procuring/Controlling of Prostitution,38,139
+34  粗獷性行為罪行 Unnatural Offences,12,6
+35  其他違背社會道德的罪行 Other Offences Against Public Morality,358,624
